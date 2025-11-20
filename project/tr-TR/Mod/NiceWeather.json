@@ -1,14 +1,14 @@
 {
   "Options.SECTION[NiceWeather.NiceWeather.Mod]": "Güzel Hava",
-  "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "Weather",
-  "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "Precipitation",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Disable Rain",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Check to disable the rain",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Disable Snow",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Check to disable the snow",
-  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "Clouds and fog",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Disable Clouds",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Check to disable the clouds",
-  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Disable Fog",
-  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Check to disable the fog"
+  "Options.TAB[NiceWeather.NiceWeather.Mod.Weather]": "Hava Durumu",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Precipitation]": "Yağış",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Yağmuru Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableRainToggle]": "Yağmuru devre dışı bırakmak için işaretleyin",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Karı Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableSnowToggle]": "Karı devre dışı bırakmak için işaretleyin",
+  "Options.GROUP[NiceWeather.NiceWeather.Mod.Clouds and Fog]": "Bulutlar ve Sis",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Bulutları Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableCloudsToggle]": "Bulutları devre dışı bırakmak için işaretleyin",
+  "Options.OPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Sisi Devre Dışı Bırak",
+  "Options.OPTION_DESCRIPTION[NiceWeather.NiceWeather.Mod.Setting.DisableFogToggle]": "Sisi devre dışı bırakmak için işaretleyin"
 }
