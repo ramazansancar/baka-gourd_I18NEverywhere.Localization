@@ -1,9 +1,9 @@
 {
   "Options.SECTION[StifferVehicles.StifferVehicles.Mod]": "Daha Sert Araçlar",
-  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Stiffness Modifier",
-  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "The Max Position modifier for all vehicles. Vanilla is 1.0, Default for Mod is 3.0 Higher values makes vehicles lean less, but it might look harsher.",
-  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Damping Modifier",
-  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "The Damping modifier for all vehicles. Vanilla is 1.0, Default for Mod is 2.0 Higher values makes vehicles bounce more. Low values are stiffer.",
-  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Reset to Default",
-  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Reset the modifiers to the default values."
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Sertlik Değiştirici",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.StiffnessModifier]": "Tüm araçlar için Maksimum Konum değiştirici. Varsayılan 1.0, Mod için Varsayılan 3.0. Daha yüksek değerler araçların daha az yatmasını sağlar, ancak daha sert görünebilir.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Sönümleme Değiştirici",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.DampingModifier]": "Tüm araçlar için Sönümleme değiştirici. Varsayılan 1.0, Mod için Varsayılan 2.0. Daha yüksek değerler araçların daha fazla zıplamasını sağlar. Düşük değerler daha serttir.",
+  "Options.OPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Varsayılana Sıfırla",
+  "Options.OPTION_DESCRIPTION[StifferVehicles.StifferVehicles.Mod.Setting.ResetToDefault]": "Değiştiricileri varsayılan değerlere sıfırlar."
 }
